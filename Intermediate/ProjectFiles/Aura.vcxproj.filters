@@ -55,6 +55,12 @@
     <ClCompile Include="..\..\Source\Aura\Private\Characters\AuraEnemy.cpp">
       <Filter>Source\Aura\Private\Characters</Filter>
     </ClCompile>
+    <Filter Include="Source\Aura\Private\Core">
+      <UniqueIdentifier>{875ACC13-CCC0-31AC-BD1F-91015C08B2FE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Core\AuraPlayerController.cpp">
+      <Filter>Source\Aura\Private\Core</Filter>
+    </ClCompile>
     <Filter Include="Source\Aura\Public">
       <UniqueIdentifier>{812D085E-218E-32A1-B6D9-A817B3D0072A}</UniqueIdentifier>
     </Filter>
@@ -69,6 +75,12 @@
     </ClInclude>
     <ClInclude Include="..\..\Source\Aura\Public\Characters\AuraEnemy.h">
       <Filter>Source\Aura\Public\Characters</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\Core">
+      <UniqueIdentifier>{C7D0CB36-FAB4-3924-80BF-2435E5F7D28E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Core\AuraPlayerController.h">
+      <Filter>Source\Aura\Public\Core</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
