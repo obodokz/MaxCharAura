@@ -58,8 +58,17 @@
     <Filter Include="Source\Aura\Private\Core">
       <UniqueIdentifier>{875ACC13-CCC0-31AC-BD1F-91015C08B2FE}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Core\AuraGameModeBase.cpp">
+      <Filter>Source\Aura\Private\Core</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Aura\Private\Core\AuraPlayerController.cpp">
       <Filter>Source\Aura\Private\Core</Filter>
+    </ClCompile>
+    <Filter Include="Source\Aura\Private\Interaction">
+      <UniqueIdentifier>{8600DADF-1C2F-3B4E-851E-5CF3B1B94879}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Aura\Private\Interaction\EnemyInterface.cpp">
+      <Filter>Source\Aura\Private\Interaction</Filter>
     </ClCompile>
     <Filter Include="Source\Aura\Public">
       <UniqueIdentifier>{812D085E-218E-32A1-B6D9-A817B3D0072A}</UniqueIdentifier>
@@ -79,8 +88,17 @@
     <Filter Include="Source\Aura\Public\Core">
       <UniqueIdentifier>{C7D0CB36-FAB4-3924-80BF-2435E5F7D28E}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Core\AuraGameModeBase.h">
+      <Filter>Source\Aura\Public\Core</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Aura\Public\Core\AuraPlayerController.h">
       <Filter>Source\Aura\Public\Core</Filter>
+    </ClInclude>
+    <Filter Include="Source\Aura\Public\Interaction">
+      <UniqueIdentifier>{AC69F4E0-FE2C-3C00-9744-FF5ECD46407C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Aura\Public\Interaction\EnemyInterface.h">
+      <Filter>Source\Aura\Public\Interaction</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
